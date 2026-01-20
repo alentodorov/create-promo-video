@@ -125,6 +125,9 @@ Provide the user with:
 - Maximum 6-8 words per text frame
 - Use text shadows or backgrounds for readability
 
+### Layout
+- Avoid full-width "label" pills when inside CSS Grid: set `justifySelf: "start"` or wrap with `display: inline-flex` + `width: "fit-content"` to prevent stretching
+
 ### Animation
 - Fast pace for hooks (0.3-0.5s transitions)
 - Slightly slower for information (0.5-1s transitions)
