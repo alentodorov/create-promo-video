@@ -29,7 +29,7 @@ findskill install create-promo-video
 
 ## Usage
 
-Once installed, you can activate the skill in your Gemini session to start generating videos for your current project.
+Once installed, you can activate the skill in your Claude Code session to start generating videos for your current project.
 
 ```text
 @create-promo-video create a promo video for this project
