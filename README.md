@@ -21,11 +21,8 @@ You can install this skill directly using the `findskill` CLI:
 npx findskill install create-promo-video
 ```
 
-Or if you have `findskill` installed globally:
+Or just download this repo and add it to your favourite CLI .skills folder
 
-```bash
-findskill install create-promo-video
-```
 
 ## Usage
 
