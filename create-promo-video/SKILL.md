@@ -101,20 +101,32 @@ export const config = {
 };
 ```
 
-### Step 7: Render the Video
+### Step 7: Make it Interactive
 
-After building the composition:
+Make the video template reusable and editable by adding a Zod schema:
+
+1.  **Define Schema**: In `Root.tsx`, define a Zod schema for the customizable text/colors.
+2.  **Add Schema to Composition**: Pass the schema and `defaultProps` to the `<Composition />` component.
+3.  **Start Studio**: Instead of just rendering, offer to start the studio so the user can tweak the copy:
+    ```bash
+    cd video
+    npm run dev
+    ```
+
+### Step 8: Render the Video
+
+After building the composition or letting the user tweak it:
 
 ```bash
 cd video
 npx remotion render src/index.ts MainComposition out/promo.mp4
 ```
 
-### Step 8: Deliver
+### Step 9: Deliver
 
 Provide the user with:
 - Path to the rendered video file
-- Instructions on how to preview with `npx remotion preview`
+- **Instructions to edit**: "You can tweak the text using the Remotion Studio: `cd video && npm run dev`"
 - Tips for re-rendering with different settings
 
 ## Design Guidelines

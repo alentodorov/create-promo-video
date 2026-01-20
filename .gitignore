@@ -1,0 +1,5 @@
+
+video/
+video/node_modules
+video/.turbo
+video/out/
