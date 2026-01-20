@@ -4,6 +4,9 @@ This is a **Claude** skill that helps you automatically generate promotional Tik
 
 ## What it does
 
+![Promo Video Demo](promo.gif)
+
+
 This skill acts as an expert videographer and motion designer. It:
 1.  **Analyzes your project** to understand its core functionality and selling points.
 2.  **Extracts branding** (colors, fonts, logos) from your existing codebase.
