@@ -1,6 +1,6 @@
 # Create Promo Video Skill
 
-This is a **Gemini** skill that helps you automatically generate promotional TikTok-style short videos for your software projects using [Remotion](https://www.remotion.dev/).
+This is a **Claude** skill that helps you automatically generate promotional TikTok-style short videos for your software projects using [Remotion](https://www.remotion.dev/).
 
 ## What it does
 
