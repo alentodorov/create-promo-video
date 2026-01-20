@@ -4,7 +4,7 @@ This is a **Claude** skill that helps you automatically generate promotional sho
 
 ## What it does
 
-Here's a quick example of what these skills enable. I asked it to generate the video for the actual skill.
+Here's a quick example of what this skill enable. I asked it to generate the video for the actual skill.
 
 ![Promo Video Demo](promo.gif)
 
