@@ -35,8 +35,11 @@ Once installed, you can activate the skill in your Claude Code session to start 
 @create-promo-video create a promo video for this project
 ```
 
-## Requirements
+## Interactive Editing
+    
+You get full control over the output. The skill sets up a local Remotion Studio where you can:
+    
+-   **Preview changes live** in the browser.
+-   **Tweak props** (text, colors) using visual controls.
+-   **Modify the code** directly if you need custom animations or layouts.
 
-*   Node.js 18+
-*   npm
-*   ffmpeg
