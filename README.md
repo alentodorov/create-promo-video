@@ -32,7 +32,7 @@ Or just download this repo and add it to your favourite CLI .skills folder
 Once installed, you can activate the skill in your Claude Code session to start generating videos for your current project.
 
 ```text
-@create-promo-video create a promo video for this project
+hei claude let's make  a promo video for this project
 ```
 
 ## Interactive Editing
