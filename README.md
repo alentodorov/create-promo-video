@@ -26,7 +26,7 @@ You can install this skill directly using the `findskill` CLI:
 npx findskill install create-promo-video
 ```
 
-Or just download this repo and add it to your favourite `.agent-cli/skills` folder (e.g. .codex/skills/ .gemini/skills)
+Or just download this repo and add it to your favourite `.agent-cli/skills` folder (e.g. `.codex/skills/` `.gemini/skills`)
 
 
 ## Usage
